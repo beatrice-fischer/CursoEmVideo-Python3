@@ -13,7 +13,7 @@ O curso é dividido em três módulos principais, chamados de Mundos:
 - Essa etapa estabelece a base da lógica de programação em Python.
 
 
-### 🌍 Mundo 2 — Estruturas de Controle
+## 🌍 Mundo 2 — Estruturas de Controle
 - Exercícios aprofundando o controle do fluxo do programa:
   - Estruturas if, elif e else.
 <!-- 
@@ -21,7 +21,7 @@ laços while e for.
 Validação de dados, primeiros contatos com funções.
 Aqui a lógica começa a se estruturar de forma mais consistente.
 
-🌍 Mundo 3 — Estruturas de Dados
+## 🌍 Mundo 3 — Estruturas de Dados
 ** Exercícios** explorando estruturas mais complexas da linguagem:
 Listas, tuplas, dicionários, matrizes, funções com parâmetros e *args.
 Inclui também um pequeno projeto modular com organização em pacotes e uso de __init__.py.
